@@ -20,7 +20,10 @@
 
 
 # Build settings
-theme: "minimal-mistakes-jekyll"
+remote_theme: mmistakes/minimal-mistakes@latest
+plugins:
+  - jekyll-remote-theme
+
 # Color scheme options ( "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise")
 minimal_mistakes_skin: "default"
 title: Emma Gordon
