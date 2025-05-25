@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+//@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+//@import "minimal-mistakes"; // main partials
+
+
+// DO NOT use {{ }} inside SCSS
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+
+// Your override
+.recent-posts,
+.home-recent-posts {
+  display: none !important;
+}

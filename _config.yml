@@ -18,20 +18,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+# Build settings
+theme: "minimal-mistakes-jekyll"
+# Color scheme options ( "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise")
+minimal_mistakes_skin: "default"
 title: Emma Gordon
 email: Emma.Gordon@gsi.uni-muenchen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000"  # For local development # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  egordon447
 
-# Build settings
-theme: minima
+
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin" 
+      url: "https://www.linkedin.com/in/emma-gordon-22b85715a"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/egordon447"
+
+
+
+# Add descirption for metadata purposes using "description:" at some point
+
+
+
+sass:
+  style: compressed
+
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

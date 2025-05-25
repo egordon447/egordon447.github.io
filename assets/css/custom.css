@@ -1,0 +1,35 @@
+.custom-banner {
+    display: flex;
+    align-items: center;
+    background-color: #fff;       /* dark background for banner */
+    color: #444;                 /* white text */
+    padding: 15px 30px;
+    gap: 20px;                   /* space between image and text */
+    border-radius: 12px;          /* round corners for entire banner */
+    max-width: 900px;             /* max width so it doesn't stretch too far */
+    margin: 20px 0 20px 20px;            /* left aligned */
+    box-shadow: none;       /* removes the shadow */
+    border: none;           /* removes any border */
+  }
+  
+  .banner-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 10%;           /* makes image perfectly round */
+    object-fit: cover;            /* crops nicely */
+    flex-shrink: 0;               /* prevent image from shrinking */
+    box-shadow: 0 0 6px rgba(255,255,255,0.5);
+  }
+  
+  .banner-text h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: 700;
+  }
+  
+  .banner-text p {
+    margin: 2px 0 0 0;
+    font-size: 1.1rem;
+    opacity: 0.8;
+  }
+  
