@@ -2,6 +2,7 @@
 layout: single
 
 permalink: /research/
+title: ""
 ---
 
 # Current Projects
