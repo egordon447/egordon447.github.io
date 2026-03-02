@@ -16,5 +16,5 @@ permalink: /teaching/
 
 ## Democratic Development and Stability in Germany
 
-- WiSe 23/24 and 24/25
+- WiSe 23/24, 24/25, and 25/26
 - Aims to give undergraduate students an understanding of the unique development of German democracy in light of both democratic theory and in comparison to other developed countries. 
