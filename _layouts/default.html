@@ -13,20 +13,61 @@
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
-    <div class="custom-banner">
-      <img src="/assets/images/banner_image.jpeg" alt="Banner Image" class="banner-image" />
-      <div class="banner-text">
-        <h1>Emma Gordon</h1>
-        <p>PhD Researcher</p>
+    <div class="page-wrapper">
+      <div class="custom-banner">
+        <img src="/assets/images/banner_image2.jpeg" alt="Banner Image" class="banner-image" />
+        <div class="banner-text">
+          <h1>Emma Gordon</h1>
+          <p>PhD Researcher</p>
+        </div>
+      </div>
+
+      <div class="initial-content">
+        {{ content }}
+        {% include after-content.html %}
       </div>
     </div>
-    
-    
 
-    <div class="initial-content">
-      {{ content }}
-      {% include after-content.html %}
-    </div>
+    <style>
+      .page-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 2rem;
+      }
+
+      .custom-banner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;  /* center content horizontally */
+        width: fit-content;
+        padding: 20px 0;
+        margin-left: 2rem;
+        text-align: center;  /* center text */
+      }
+
+      .banner-image {
+        width: 30%;             /* exact size from old code */
+        height: auto;
+        object-fit: cover;
+        border-radius: 20px;
+        transition: transform 0.3s ease;
+        display: block;
+        margin: 0 auto;          /* center image horizontally */
+      }
+
+      .custom-banner:hover .banner-image {
+        transform: scale(1.05);
+      }
+
+      .banner-text {
+        margin-top: 10px;
+        color: black;
+        text-shadow: none;
+        font-size: 1.2em;
+        text-align: center;     /* center text */
+      }
+    </style>
 
     {% if site.search == true %}
       <div class="search-content">
