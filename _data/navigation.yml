@@ -9,3 +9,5 @@ main:
     url: "/teaching/"
   - title: "CV"
     url: "/cv/"
+  - title: "Sovereignty Timeline"
+    url: /sovereignty-timeline/
