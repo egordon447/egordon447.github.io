@@ -2,12 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: single
 title: ""
 
 ---
-# Hi there!
 
-I’m a PhD researcher at the Department of Political Science at Ludwig-Maximilians-University Munich, working at the Chair of Comparative Politics. My work focuses on how small states and self-governing non-state territories democratise differently from other states, and what we can learn from this more broadly in the democratisation research.
+Most research on democratisation focuses on large, well-documented states. I study the cases it leaves out.
+
+By analysing small states and self-governing territories, I identify patterns in political development and what they reveal about governance, stability, and institutional change.
  
 <!-- You can find more about my PhD project here and my academic resume here. -->

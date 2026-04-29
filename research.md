@@ -7,12 +7,11 @@ title: ""
 
 # Current Projects
 ### Democracy without Statehood: Systematising Patterns of Exclusion in the Democratic Transition Literature
--	Adapted from conference paper
+-   Adapted from conference paper
+-   Under review 
 
-### Sequences of Transitions: Self-Governance, Independence, and Democratic Transition
-- Second PhD paper
-
-<br><br>
+### When Size Matters: State Population and the Uneven Dynamics of Democracy
+-   Second PhD paper
 
 # Conferences
 ### Democratization and Autocratization: IPSA 75th Anniversary Conference
