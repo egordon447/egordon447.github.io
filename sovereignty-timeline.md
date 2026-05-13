@@ -24,6 +24,6 @@ An interactive global map visualising the evolution of sovereignty and self-gove
 This visualisation is based on original research on statehood and self-governance (1800–2025).
 
 Preferred citation:
-[Your Name] (2026). “Democracy without Statehood: Systematising Patterns of Exclusion in the Democratic Transition Literature.” Manuscript under review.
+Gordon. E. R. (2026). “Democracy without Statehood: Systematising Patterns of Exclusion in the Democratic Transition Literature.” Manuscript under review.
 
 
