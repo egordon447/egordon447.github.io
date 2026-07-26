@@ -6,10 +6,11 @@ title: ""
 ---
 
 # Current Projects
-### Democracy without Statehood: Systematising Patterns of Exclusion in the Democratic Transition Literature
+### The Statehood Problem: Selection Bias and Exclusion in Democratic Transition Research
 -   Adapted from conference paper
 -   Under review
-- The democracy literature claims broader case coverage than it actually has. This paper shows that replacing the standard statehood criterion with a full self-governance criterion adds up to 50 additional cases, and that including them changes real findings, helping resolve a long-running debate over modernization theory and clarifying the mechanism behind regional diffusion effects.
+-   Data: [Replication Data for: The Statehood Problem: Selection Bias and Exclusion in Democratic Transition Research](https://doi.org/10.7910/DVN/AO90I9) (Harvard Dataverse)
+-   The democracy literature claims broader case coverage than it actually has. This paper shows that replacing the standard statehood criterion with a full self-governance criterion adds up to 50 additional cases, and that including them changes real findings, helping resolve a long-running debate over modernization theory and clarifying the mechanism behind regional diffusion effects.
 
 ### Small Democracies Don’t Die: Population Size and Democratic Breakdown
 -   Second PhD paper

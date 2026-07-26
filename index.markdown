@@ -7,8 +7,9 @@ title: ""
 
 ---
 
-Most research on democratisation focuses on large, well-documented states. I study the cases it leaves out.
+Most research on democratisation focuses on large, well-documented states, small states and self-governing territories are excluded not because they don't matter, but because the standard datasets don't cover them.
 
-By analysing small states and self-governing territories, I identify patterns in political development and what they reveal about governance, stability, and institutional change.
- 
-<!-- You can find more about my PhD project here and my academic resume here. -->
+I study what that exclusion hides about political development, stability, and institutional change and I build the datasets that make small-states-inclusive comparative research possible.
+
+
+You can find more about my [current research](/research/) and my [CV](/cv/).
