@@ -41,19 +41,27 @@
         flex-direction: column;
         align-items: center;  /* center content horizontally */
         width: fit-content;
+        flex-shrink: 0;        /* never compress the banner itself */
         padding: 20px 0;
         margin-left: 2rem;
         text-align: center;  /* center text */
       }
 
       .banner-image {
-        width: 30%;             /* exact size from old code */
+        width: 180px;            /* fixed size, consistent on every page */
         height: auto;
         object-fit: cover;
         border-radius: 20px;
         transition: transform 0.3s ease;
         display: block;
         margin: 0 auto;          /* center image horizontally */
+      }
+
+      /* On "wide" pages (e.g. the CV), hide the banner entirely so
+         content can use and center within the full page width, rather
+         than being squeezed into the space left over next to it. */
+      body.wide .custom-banner {
+        display: none;
       }
 
       .custom-banner:hover .banner-image {
@@ -66,6 +74,21 @@
         text-shadow: none;
         font-size: 1.2em;
         text-align: center;     /* center text */
+      }
+
+      .initial-content {
+        flex: 1;       /* fill all remaining width in the row */
+        min-width: 0;  /* allow proper shrinking with fixed-width content like iframes */
+      }
+
+      /* Override the theme's built-in float/width constraint on .page,
+         which normally reserves space for the theme's own sidebar layout.
+         Without this, pages without "classes: wide" in their front matter
+         get squeezed into a narrow floated-right column next to the
+         custom banner. */
+      .page {
+        float: none !important;
+        width: 100% !important;
       }
     </style>
 
