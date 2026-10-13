@@ -4,8 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-I design and teach undergraduate courses in comparative politics, with a focus on helping students build structured ways of analysing political systems, institutional change, and strategic behaviour. A core emphasis is developing students’ ability to think critically and evaluate competing explanations, drawing regularly on my own research and datasets in the classroom so students work with real, original data rather than only textbook examples.
-
+I design and teach undergraduate courses in comparative politics, with a focus on helping students build structured ways of analysing political systems, institutional change, and strategic behaviour. A core emphasis is developing students’ ability to think critically and evaluate competing explanations, drawing regularly on my own research questions about which cases counta nd why. IN my germany seminar for example, studenst debate whether West Germany can be considered demoacratic from 1949, given it lacked formal soveriegnty. 
 
 ## Democratisation from a Comparative Perspective
 

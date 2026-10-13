@@ -21,14 +21,12 @@
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.27.0
-plugins:
-  - jekyll-remote-theme
 
 # Color scheme options ( "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise")
 minimal_mistakes_skin: "default"
 title: Emma Gordon
 email: Emma.Gordon@gsi.uni-muenchen.de
-description: >- # this means to ignore newlines until "baseurl:"
+description: "Political scientist at LMU Munich researching small states and democracy; teaching in comparative politics, IR and political economy."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egordon447.github.io" 
 github_username:  egordon447
@@ -57,6 +55,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

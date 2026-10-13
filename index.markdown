@@ -7,9 +7,11 @@ title: ""
 
 ---
 
-Most research on democratisation focuses on large, well-documented states, small states and self-governing territories are excluded not because they don't matter, but because the standard datasets don't cover them.
+Most research on democratisation focuses on large, well-documented states. Small states and self-governing territories are left out, largly because most datasets don't cover them.
 
-I study what that exclusion hides about political development, stability, and institutional change and I build the datasets that make small-states-inclusive comparative research possible.
+I research small states and fully self-governing territories, including why their democracies so rarely break down. Most cross-national datasets leave these cases out, so I’ve built my own: [Sovereignty Timeline](/sovereignty-timeline/), the [Small State Coverage Project](/data/sscp/), and a GDP coverage tool.
 
 
-You can find more about my [current research](/research/) and my [CV](/cv/).
+I also love teaching: I've designed and taught three undergraduate courses as sole instructor, in English to international cohorts.
+
+You can find more about my [teaching](/teaching/), my [research](/research/), and my [CV](/cv/).

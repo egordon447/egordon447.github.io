@@ -21,9 +21,10 @@ An interactive global map visualising the evolution of sovereignty and self-gove
   </a>
 </p>
 
-This visualisation is based on original research on statehood and self-governance (1800–2025).
+This visualisation is based on the Self-Governance and Sovereignty Dataset (SGS). The full dataset will be released when the accompanying paper is published.
 
 Preferred citation:
-Gordon. E. R. (2026). “Democracy without Statehood: Systematising Patterns of Exclusion in the Democratic Transition Literature.” Manuscript under review.
+Gordon, E. R. (2024). Patterns of exclusion: Uncovering selection bias in the democratic transition literature
+[Paper presented at the IPSA World Congress, 2024]
 
 
